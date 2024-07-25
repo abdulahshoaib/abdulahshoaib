@@ -25,4 +25,4 @@ I am a Computer Science student at FAST NUCES with a deep passion for **Game Dev
     - 🛠️**Skills**: Knowledgeable in various aspects of information security, including security protocols, threat analysis, and ethical hacking techniques(Yes, ethical!).   
 
 ## Contact
-Feel free to reach out to me at [khan.abdullah.shoaib@gmail.com](mailto:khan.abdullah.shoaib@gmail.com) or connect with me on [LinkedIn]((https://www.linkedin.com/in/abdullahshoaibkhan/).
+Feel free to reach out to me at [khan.abdullah.shoaib@gmail.com](mailto:khan.abdullah.shoaib@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahshoaibkhan/).
