@@ -22,7 +22,7 @@ I am a Computer Science student at FAST NUCES with a deep passion for **Game Dev
   - **Information Security**
 
     - 👨🏻‍💻**Tools**: Experienced with Kali Linux for penetration testing and security assessments (No hacking, seriously).
-    - 🛠️**Skills**: Knowledgeable in various aspects of information security, including security protocols, threat analysis, and ethical hacking techniques(Yes, ethical!).   
+    - 🛠️**Skills**: Knowledgeable in various aspects of information security, including security protocols, threat analysis, and ethical hacking techniques(Yes, ethical)!  
 
 ## Contact
 Feel free to reach out to me at [khan.abdullah.shoaib@gmail.com](mailto:khan.abdullah.shoaib@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahshoaibkhan/).
