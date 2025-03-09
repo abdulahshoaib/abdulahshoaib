@@ -2,6 +2,7 @@
 I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development, game development, and blockchain. I enjoy working with various technologies, including Go, Node, React, and exploring areas like cryptography, vulnerability assessment, and deployment with Docker and Kubernetes.  
 
 **An Enthusiastic Hacker!** 
+
 I use arch and neovim btw
 
 ## 💫 Recent Endavours:
