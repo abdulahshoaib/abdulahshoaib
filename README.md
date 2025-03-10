@@ -5,8 +5,8 @@ I am a sophomore at Fast Nuces with an interest in embedded systems, backend and
 
 I use arch and neovim btw
 <br>
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000080?style=for-the-badge&logo=archlinux)
-![Neovim](https://img.shields.io/badge/Neovim-9c401c?style=for-the-badge&logo=neovim)
+![[Arch Linux](https://img.shields.io/badge/Arch%20Linux-000080?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
+![[Neovim](https://img.shields.io/badge/Neovim-9c401c?style=for-the-badge&logo=neovim)](https://neovim.io/)
 
 
 ## 💫 Recent Endavours:
