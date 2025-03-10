@@ -1,11 +1,17 @@
 ## About Me:
 
-<div style="display: flex; align-items: center;">
-  <p align="left">
-    I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development, game development, and blockchain. I enjoy working with various technologies, including Go, Node, React, and exploring areas like cryptography, vulnerability assessment, and deployment with Docker and Kubernetes.
-  </p>
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNtamcxNDU4d3I2aWNtYTBwandvcWVheHRsMDNzdXQyN29hZWhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" />
-</div>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development, game development, and blockchain. I enjoy working with various technologies, including Go, Node, React, and exploring areas like cryptography, vulnerability assessment, and deployment with Docker and Kubernetes.
+      </p>
+    </td>
+    <td>
+      <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNtamcxNDU4d3I2aWNtYTBwandvcWVheHRsMDNzdXQyN29hZWhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 
 **An Enthusiastic Hacker!** 
