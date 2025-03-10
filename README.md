@@ -6,9 +6,11 @@ I am a sophomore at Fast Nuces with an interest in embedded systems, backend and
 I use arch and neovim btw
 
 ## 💫 Recent Endavours:
+
 - **Embedded Systems**: Zig, C, Lua  
 - **Backend Solutions**: Go, Node, Bun  
 - **Frontend**: Next.js, React  
+- **Blockchain**: Go, Smart Contracts (Vyper, Solidity), Web3.js
 - **Game Development**: Raylib, Unity
 - **Databases**: Microsoft SQL Server, MongoDB, MySQL, PostgreSQL, SQLite
 - **Deployment**: Docker, Kubernetes (CI/CD)  
@@ -16,10 +18,9 @@ I use arch and neovim btw
 - **Config**: YAML, TOML, JSON, env, Makefile, Lua  
 - **Scripting**: Bash, Lua
 - **Cloud/Hosting**: Vercel, Nginx
-- **APIs/Networking**: Postman, Apache Airflow
-- **Cryptography & Vulnerability Assessment**  
-- **Blockchain**: Go, Smart Contracts (Vyper, Solidity), Web3.js
-
+- **APIs/Networking**: Postman, Apache Airflow, FastAPI
+- **Cryptography & Vulnerability Assessment** 
+- **ML**: Python(Pandas, TensorFlow, PyTorch), Go(GoML), Jupyter Notebook
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulahshoaib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahshoaibkhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/theDarkerDarthVader) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nullptr_s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khan.abdullah.shoaib@gmail.com) 
