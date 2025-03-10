@@ -174,14 +174,14 @@ I use arch and neovim btw
 
 <br>
 ###
-<br>
 
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=WhoisCipher&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
 ###
-<br>
 
+<br>
 <img src="https://raw.githubusercontent.com/WhoisCipher/WhoisCipher/output/snake.svg" alt="Snake animation" />
