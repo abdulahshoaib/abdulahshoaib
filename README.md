@@ -36,8 +36,8 @@ I use arch and neovim btw
 
 ## 🌐 Socials:
 ###
-<br>
 
+<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/abdullahshoaibkhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -60,6 +60,7 @@ I use arch and neovim btw
 # 💻 Tech Stack:
 ###
 <br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -155,8 +156,10 @@ I use arch and neovim btw
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
+
 <br>
 <br>
+
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2llNXV3d3ZkdDlqNnhndWVwajFqaW9zN2Z6eDRyNG5haDBkYzNnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9VDhskXzZhD7a/giphy.gif"  />
 </div>
@@ -173,15 +176,13 @@ I use arch and neovim btw
 </div>
 
 <br>
-###
-
 <br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=WhoisCipher&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
-###
-
 <br>
+
 <img src="https://raw.githubusercontent.com/WhoisCipher/WhoisCipher/output/snake.svg" alt="Snake animation" />
