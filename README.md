@@ -185,4 +185,4 @@ I use arch and neovim btw
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/WhoisCipher/WhoisCipher/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WhoisCipher/WhoisCipher/output/github-contribution-grid-snake.svg" alt="Snake animation" />
