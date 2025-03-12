@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>About Me:<h1>
+  <h1><strong>About Me:</strong></h1>
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNtamcxNDU4d3I2aWNtYTBwandvcWVheHRsMDNzdXQyN29hZWhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
   <br>
   <p>I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development, game development, and blockchain. I enjoy working with various technologies, including Go, Node, React, and exploring areas like cryptography, vulnerability assessment, and deployment with Docker and Kubernetes.</p>
