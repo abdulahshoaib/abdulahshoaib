@@ -21,16 +21,14 @@ I use arch and neovim btw
 - **Embedded Systems**: Zig, C, Lua  
 - **Backend Solutions**: Go, Node, Bun  
 - **Frontend**: Next.js, React  
-- **Blockchain**: Go, Smart Contracts (Vyper, Solidity), Web3.js
 - **Game Development**: Raylib, Unity
 - **Databases**: Microsoft SQL Server, MongoDB, MySQL, PostgreSQL, SQLite
-- **Deployment**: Docker, Kubernetes (CI/CD)  
-- **Configuration Management**: Ansible, Jenkins, Puppet  
-- **Config**: YAML, TOML, JSON, env, Makefile, Lua  
+- **Deployment**: Docker, Kubernetes (CI/CD)
+- **Configuration Management**: Ansible, Jenkins, Puppet
+- **Config**: YAML, TOML, JSON, env, Makefile, Lua
 - **Scripting**: Bash, Lua
 - **Cloud/Hosting**: Vercel, Nginx
 - **APIs/Networking**: Postman, Apache Airflow, FastAPI
-- **Cryptography & Vulnerability Assessment** 
 - **ML**: Python(Pandas, TensorFlow, PyTorch), Go(GoML), Jupyter Notebook
 
 ## 🌐 Socials:
