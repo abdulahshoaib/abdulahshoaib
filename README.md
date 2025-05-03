@@ -19,7 +19,7 @@ I use arch and neovim btw
 
 
 - **Embedded Systems**: Zig, C, Lua  
-- **Backend Solutions**: Go, Node, Bun  
+- **Backend Solutions**: Go, Node, Bun, Ruby, Rails  
 - **Frontend**: Next.js, React  
 - **Game Development**: Raylib, Unity
 - **Databases**: Microsoft SQL Server, MongoDB, MySQL, PostgreSQL, SQLite
