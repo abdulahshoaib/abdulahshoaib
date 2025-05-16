@@ -27,9 +27,8 @@ I use arch and neovim btw
 - **Configuration Management**: Ansible, Jenkins, Puppet
 - **Config**: YAML, TOML, JSON, env, Makefile, Lua
 - **Scripting**: Bash, Lua
-- **Cloud/Hosting**: Vercel, Nginx
-- **APIs/Networking**: Postman, Apache Airflow, FastAPI
-- **ML**: Python(Pandas, TensorFlow, PyTorch), Go(GoML), Jupyter Notebook
+- **Cloud/Hosting**: Vercel
+- **ML**: Python(Pandas, TensorFlow, PyTorch), Jupyter Notebook
 
 ## 🌐 Socials:
 ###
