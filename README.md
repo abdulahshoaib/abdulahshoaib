@@ -5,10 +5,8 @@
   <p>I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development and game development. I enjoy working with various technologies, including Go, TS, Ruby, C/C++ Node, React, and exploring Security as well, and I use arch / neovim btw.</p>
 </div>
 
-
-
-
 ## Tech Stack:
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -71,8 +69,7 @@
 <br>
 
 
-# GitHub Stats:
-###
+## GitHub Stats:
 <br>
 
 <div align="center">
