@@ -2,17 +2,10 @@
   <h1><strong>About Me:</strong></h1>
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNtamcxNDU4d3I2aWNtYTBwandvcWVheHRsMDNzdXQyN29hZWhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
   <br>
-  <p>I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development, game development, and blockchain. I enjoy working with various technologies, including Go, Node, React, and exploring areas like cryptography, vulnerability assessment, and deployment with Docker and Kubernetes.</p>
+  <p>I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development and game development. I enjoy working with various technologies, including Go, TS, Ruby, C/C++ Node, React, and exploring Security as well, and I use arch / neovim btw.</p>
 </div>
-  
 
 
-**An Enthusiastic Hacker!** 
-
-I use arch and neovim btw
-<br>
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000080?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
-[![Neovim](https://img.shields.io/badge/Neovim-9c401c?style=for-the-badge&logo=neovim)](https://neovim.io/)
 
 
 ## Tech Stack:
@@ -84,9 +77,7 @@ I use arch and neovim btw
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulahshoaib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-<br>
-<div align="center">
+  <img width="10" />
   <img src="https://streak-stats.demolab.com?user=abdulahshoaib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
