@@ -2,7 +2,7 @@
   <h1><strong>About Me:</strong></h1>
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNtamcxNDU4d3I2aWNtYTBwandvcWVheHRsMDNzdXQyN29hZWhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
   <br>
-  <p>Junior year student at FAST-NUCES been working on backend and frontend solutions with honing expertise in Deployment and build automation. Writing CI/CD pipeline and MLOps pipelines as well. I'm also working on pen testing, Automation of security, and Policy Enforcement. Made a couple games in C&C++ some time ago</p>
+  <p>Junior year student at FAST-NUCES been working on backend and frontend solutions with honing expertise in Deployment and build automation. Writing CI/CD & MLOps pipelines. I'm also working on pen testing, Automation of security, and Policy Enforcement. Made a couple games in C&C++ some time ago</p>
 </div>
 
 ## Tech Stack:
