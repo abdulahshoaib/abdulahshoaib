@@ -2,7 +2,7 @@
   <h1><strong>About Me:</strong></h1>
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNtamcxNDU4d3I2aWNtYTBwandvcWVheHRsMDNzdXQyN29hZWhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
   <br>
-  <p>I am a sophomore at Fast Nuces with an interest in embedded systems, backend and frontend development and game development. I enjoy working with various technologies, including Go, TS, Ruby, C/C++ Node, React, and exploring Security as well, and I use arch / neovim btw.</p>
+  <p>Junior year student at FAST-NUCES been working on backend and frontend solutions with honing expertise in Deployment and build automation. Writing CI/CD pipeline and MLOps pipelines as well. I'm also working on pen testing, Automation of security, and Policy Enforcement. Made a couple games in C&C++ some time ago</p>
 </div>
 
 ## Tech Stack:
