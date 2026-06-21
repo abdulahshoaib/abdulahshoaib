@@ -1,8 +1,8 @@
 <h1>Hey, I'm Abdullah Shoaib</h1>
 
-<p><strong>Backend · DevOps · AI/ML</strong></p>
-<p>Backend-focused Software Engineer building APIs, DevOps workflows, and AI-powered systems.
-I work with Node.js, FastAPI, Go, Docker, PostgreSQL, and similar technologies to build backends applications.</p>
+<p><strong>Software Engineering · Cloud · DevOps · AI/ML</strong></p>
+<p>Software Engineer building Cloud native apps and AI-powered systems.
+I work with Node.js, FastAPI, Go, Docker, PostgreSQL, React and similar technologies to build applications.</p>
 
 ## Stack
 <p>
